@@ -1,0 +1,1 @@
+This project is built in MYSQL_MULTI_NODE Configuration
